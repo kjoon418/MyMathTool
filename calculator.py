@@ -5,5 +5,6 @@ def add(a, b):
 def subtract(a, b):
     return a-b
 
-def say_hello():
-    print("hello")
+# 추가 기능
+def multiply(a, b):
+    return a*b
