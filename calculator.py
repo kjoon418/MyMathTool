@@ -5,6 +5,9 @@ def add(a, b):
 def subtract(a, b):
     return a-b
 
+def divide(a, b):
+    return a/b
+  
 # 추가 기능
 def multiply(a, b):
     return a*b
