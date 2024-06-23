@@ -12,10 +12,6 @@ def multiply(a, b):
 def divide_premium(a, b):
     return a/b
 
-# 추가 기능
-def divide_free(a, b):
-    return a/b
-
 # 무료 기능
 def power(a, b):
     s = 1
