@@ -11,3 +11,10 @@ def divide(a, b):
 # 추가 기능
 def multiply(a, b):
     return a*b
+
+# 무료 기능
+def power(a, b):
+    s = 1
+    for i in range(b):
+        s *= a
+    return s
