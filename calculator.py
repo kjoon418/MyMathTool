@@ -18,3 +18,6 @@ def power(a, b):
     for i in range(b):
         s *= a
     return s
+
+def double(a):
+    return a*2
