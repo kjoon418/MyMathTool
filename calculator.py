@@ -21,3 +21,6 @@ def power(a, b):
 
 def hello():
     print("hello")
+
+def hi():
+    preint("hi")
