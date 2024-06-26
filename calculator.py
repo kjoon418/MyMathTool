@@ -11,3 +11,6 @@ def divide(a, b):
 # 추가 기능
 def multiply(a, b):
     return a*b
+
+def hi():
+    return "hi"
